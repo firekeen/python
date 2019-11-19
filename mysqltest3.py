@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Author: kazihuo
+#查询数据库test中test表中sid和password
 
 import pymysql
 import xlrd

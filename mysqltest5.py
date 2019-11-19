@@ -1,5 +1,6 @@
-
-
+# -*- coding: utf-8 -*-
+#查询数据库test中的test表中的sid和password,用户输入
+#用户名和密码，和sid和passwod进行比对。
 
 import pymysql
 import xlrd

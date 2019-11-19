@@ -1,5 +1,6 @@
-
-
+# -*- coding: utf-8 -*-
+#输入用户名和密码，和数据库test中test表中的sid和password进行比较
+#比对成功，显示“welcome 用户姓名 access system”
 
 import pymysql
 import xlrd

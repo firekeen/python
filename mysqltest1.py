@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
-# Author: kazihuo
+#连接数据库test,打开“期中考试安排.xlsx”,打开“输分表”,把“输分表”中的数据
+#“姓名、考号、班级、考场、座号”，插入到数据库test中的test表中的
+#name、test_num、class、exam_room、table_num
 
 import pymysql
 import xlrd

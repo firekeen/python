@@ -1,5 +1,7 @@
-
-
+# -*- coding: utf-8 -*-
+#连接数据库test,打开test.xlsx,打开sheet1,把sheet1中的数据
+#“省学籍辅号、姓名、所在班级、性别、密码”，插入到数据库
+#test中的test表中的SID,NAME,CLASS,SEX,PASSWORD
 
 import pymysql
 import xlrd

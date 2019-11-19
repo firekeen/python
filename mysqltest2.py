@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Author: kazihuo
+#显示数据库test中test1表中的所有内容
 
 import pymysql
 import xlrd
